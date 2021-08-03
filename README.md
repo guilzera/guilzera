@@ -1,8 +1,7 @@
 ### Olá! Eu sou Guilherme 👋
 
 - 🌱 Estudando C#
-- 📫 Contate-me no email:
-- 😄 Pronouns: ele/dele
+- 📫 Contate-me no email: guilhermenascimento717@gmail.com
 
 <div>
   <a href="https://github.com/guilzera">
