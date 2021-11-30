@@ -1,6 +1,6 @@
 ### Olá! Eu sou Guilherme 👋
 
-- 🌱 Estudando C#
+- 🌱 Estudando C#, Asp.Net Core, API, EF, SQL Server, MySql
 - 📫 Contate-me no email: guilhermenascimento717@gmail.com
 
 <div>
