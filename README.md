@@ -1,6 +1,8 @@
 ### Olá! Eu sou Guilherme 👋
 
-- 🌱 Estudando C#, Asp.Net Core, API, EF, SQL Server, MySql
+- 🌱 Estudando a plataforma .NET/C#
+- Faço faculdade de Análise e Desenvolvimento de Sisitemas na PUCPR e estou no 1° período
+- Na faculdade estamos aprendendo a sintaxe da linguagem de programação Java
 - 📫 Contate-me no email: guilhermenascimento717@gmail.com
 
 <div>
