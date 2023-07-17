@@ -1,7 +1,7 @@
 ### Olá! Eu sou Guilherme 👋
 
 - 🌱 Estudando a plataforma .NET/C#
-- Faço faculdade de Análise e Desenvolvimento de Sistemas na PUCPR e estou no 1° período
+- Faço faculdade de Análise e Desenvolvimento de Sistemas na PUCPR e estou no 2° período
 - Na faculdade estamos aprendendo a sintaxe da linguagem de programação Java
 - 📫 Contate-me no email: guilhermenascimento717@gmail.com
 
